@@ -23,5 +23,6 @@ These are the corrections I made to the starter code that I felt improved the we
 
 ## Conclusion
 With the revisions I made to the code, I was able to succesfully refactor the webpage with improved accessibility without altering the original appearance. 
+![Horiseon-mockup](https://github.com/DiamondSClements/horiseon-refactor/assets/143464442/b0257a7b-f3aa-424c-9b60-f65668e56aad)
 
 
