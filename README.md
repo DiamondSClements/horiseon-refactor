@@ -20,3 +20,8 @@ These are the corrections I made to the starter code that I felt improved the we
 * Provided "alt" descriptions for all images.
 * Used more suitable tag elements and css selectors.
 * There were several css selectors that were listed seperately but had the exact same attributes. I combined those selectors to eliminate the repetitiveness of "WET" code. 
+
+## Conclusion
+With the revisions I made to the code, I was able to succesfully refactor the webpage with improved accessibility without altering the original appearance. 
+
+
